@@ -27,7 +27,7 @@ class App extends Component {
         </header>
         <h1>Sample App</h1>
         <p>これは、サンプルで作成しているアプリです。</p>
-        <p>さらにWEB版VScodeで更新しました。</p>
+        <p>さらにWEB版VScodeで更新しました。うーんすごい！</p>
       </div>
     );
   }
